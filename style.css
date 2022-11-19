@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+}
+#start, #num_of_obj, #status {
+    font-size: 18px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: grey;
+    background-color: bisque;
+    text-align: center;
+    width: 100%;
+    bottom:0;
+    line-height: 3;
+}
+canvas{
+    border:2px, solid, white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px, 5px, 5px, white;
+}
